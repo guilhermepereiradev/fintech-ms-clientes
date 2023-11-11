@@ -3,7 +3,6 @@ package com.fintech.msclientes.application;
 import com.fintech.msclientes.application.representation.ClienteSaveRequest;
 import com.fintech.msclientes.domain.Cliente;
 import lombok.RequiredArgsConstructor;
-import org.apache.coyote.Response;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
